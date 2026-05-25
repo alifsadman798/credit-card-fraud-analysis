@@ -62,3 +62,5 @@ AmountPerHour = 16.5295 - 1.1608(Hour) + 0.0943(Amount) - 0.0478(V17)
 
 ## Libraries Used
 See requirements.txt
+## Acknowledgements
+Special thanks to [Md. Asif Khan](https://github.com/asifkhan06) for his support and contribution in completing this project. 
